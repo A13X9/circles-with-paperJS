@@ -1,5 +1,5 @@
 # Circles with PaperJS
-Fun experiments with paperJS and HowlerJS using HTML and Javascript.
+Fun experiments using HTML and Javascript with paperJS and Howler JS.
 
 paperJS available at http://paperjs.org/
 
